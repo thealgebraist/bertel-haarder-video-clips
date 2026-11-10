@@ -1,10 +1,9 @@
-# Bertel Haarder video clips
+# Bertel Haarder video archive
 
-22 MP4 files copied from the local `outputs/` folder. Total video size: 143.5 MiB.
+Private repository for the generated edits and the supplied sentence-clip collection.
 
-The repository is private. Files are stored in `videos/`.
-
-## Videos
+## Edited and derived videos
+22 MP4 files in `videos/` (143.5 MiB).
 
 - `Bertel Haarder går amok IGEN - Nu som kirkeminister [w3RpsKdTl6k] - iMessage.mp4` (31.9 MiB)
 - `Bertel-Haarder-01-press-airs-the-dumb-stuff.mp4` (0.3 MiB)
@@ -28,3 +27,7 @@ The repository is private. Files are stored in `videos/`.
 - `Bertel-Haarder-røvhul-pixel-art-320x180-hevc.mp4` (4.3 MiB)
 - `Bertel-Haarder-røvhul-pixel-art-normal-colors-320x180-hevc.mp4` (4.1 MiB)
 - `Bertel-Haarder-weird-funny-aggressive-moments.mp4` (1.3 MiB)
+
+## Original sentence-clip folder
+93 files copied from `/Users/anders/Desktop/bertel-saetninger 2/` to `source-clips/bertel-saetninger-2/`.
+This includes 89 MP4 files (116.3 MiB), the supplied CSV and TXT files, and the original macOS `.DS_Store` file.
