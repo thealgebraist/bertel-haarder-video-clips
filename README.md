@@ -1,6 +1,6 @@
 # Bertel Haarder video clips
 
-21 MP4 files copied from the local `outputs/` folder. Total video size: 139.4 MiB.
+22 MP4 files copied from the local `outputs/` folder. Total video size: 143.5 MiB.
 
 The repository is private. Files are stored in `videos/`.
 
@@ -26,4 +26,5 @@ The repository is private. Files are stored in `videos/`.
 - `Bertel-Haarder-movement-compilation-frame-diff.mp4` (9.1 MiB)
 - `Bertel-Haarder-movement-compilation.mp4` (5.2 MiB)
 - `Bertel-Haarder-røvhul-pixel-art-320x180-hevc.mp4` (4.3 MiB)
+- `Bertel-Haarder-røvhul-pixel-art-normal-colors-320x180-hevc.mp4` (4.1 MiB)
 - `Bertel-Haarder-weird-funny-aggressive-moments.mp4` (1.3 MiB)
